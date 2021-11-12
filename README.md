@@ -47,7 +47,7 @@ Each execution of the script takes about 10 seconds.
 
 When the script is finished, it leaves Chrome and NP++ ready for the next URL.
 
-**\*\*NOTE\*\*:** **When the script is working, you should not click with the mouse, or enter anything on the keyboard.** The script assumes that it is the only source of input to the computer while it is running. Other inputs may change the context or window that the script is running in, making to work incorrectly
+**\*\*NOTE\*\*:** **When the script is working, you should not click with the mouse, or enter anything on the keyboard.** The script assumes that it is the only source of input to the computer while it is running. Other inputs may change the context or window that the script is running in, making to work incorrectly.
 
 ## Customizing the timings and keystrokes
 
