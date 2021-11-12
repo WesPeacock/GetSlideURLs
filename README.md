@@ -28,6 +28,7 @@ See the screen shot below for an illustration of how to use this script.
   - During the presentation, the bottom right corner of the current slide has a link to Google Slides
   - Select the slide you want (slide 4, red circle in the Google Slides window in the screenshot)
   - Make sure it's the only open instance of Google Slides in Chrome
+  - Make sure Google Slides is in Filmstrip view (first tab of the two at the bottom left). Filmstrip view displays the URL of the selected slide in the address bar, Grid view doesn't.
 
 - Open Notepad++
    - Make sure that NP++ is open where  where you want to place the URL
